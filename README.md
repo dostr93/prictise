@@ -1,1 +1,1 @@
-# prictise
+# practise
